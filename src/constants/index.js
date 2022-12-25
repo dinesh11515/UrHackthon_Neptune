@@ -86,7 +86,7 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Paricipation Certs",
+    title: "Participation Certs",
     value: "1000+",
   },
 ];
@@ -110,32 +110,32 @@ export const clients = [
     logo: devfolio,
     link: "https://devfolio.ai/",
   },
+  {
+    id: "client-2",
+    logo: poly,
+    link: "https://polygon.technology/",
+  },
 ];
 
 export const clients2 = [
   {
     id: "client-1",
-    logo: poly,
-    link: "https://polygon.technology/",
-  },
-  {
-    id: "client-2",
     logo: filecoin,
     link: "https://filecoin.io/",
   },
-];
-
-export const clients3 = [
   {
-    id: "client-1",
+    id: "client-2",
     logo: sol,
     link: "https://solana.com/",
   },
   {
-    id: "client-2",
+    id: "client-3",
     logo: repl,
     link: "https://replit.com/",
   },
+];
+
+export const clients3 = [
   {
     id: "client-3",
     logo: polk,

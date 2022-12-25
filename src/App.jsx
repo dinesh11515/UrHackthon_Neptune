@@ -38,37 +38,37 @@ const App = () => (
 
     <div className={`bg-[#FCFFE7] ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
-        {/* <Stats />
+        <Stats />
         <Business />
-        <Billing1 />
+        {/* <Billing1 />
         <Billing2 />
         <Billing3 />
-        <Billing4 />
+        <Billing4 /> */}
         <Testimonials />
         <div className={`ss:flex hidden ${styles.flexCenter}`}>
-          <h1 className="text-white text-3xl font-bold">
+          <h1 className=" text-3xl font-bold">
             ⭐️⭐️⭐️ PLATINUM SPONSORS ⭐️⭐️⭐️
           </h1>
         </div>
         <div className={`ss:hidden ${styles.flexCenter}`}>
-          <h1 className="text-white text-xl font-bold py-3">
+          <h1 className="text-xl font-bold py-3">
             ⭐️⭐️⭐️ PLATINUM SPONSORS ⭐️⭐️⭐️
           </h1>
         </div>
         <Clients />
         <div className={`ss:flex hidden ${styles.flexCenter}`}>
-          <h1 className="text-white text-3xl font-bold pt-12">
+          <h1 className=" text-3xl font-bold pt-12">
             ⭐️⭐️ GOLD SPONSORS ⭐️⭐️
           </h1>
         </div>
         <div className={`ss:hidden ${styles.flexCenter}`}>
-          <h1 className="text-white text-xl font-bold pt-12">
+          <h1 className="text-xl font-bold pt-12">
             ⭐️⭐️ GOLD SPONSORS ⭐️⭐️
           </h1>
         </div>
         <Clients2 />
-        <div className={`ss:flex hidden ${styles.flexCenter}`}>
-          <h1 className="text-white text-3xl font-bold pt-12">
+        {/* <div className={`ss:flex hidden ${styles.flexCenter}`}>
+          <h1 className="text-black text-3xl font-bold pt-12">
             ⭐️ SILVER SPONSORS ⭐️
           </h1>
         </div>
@@ -77,8 +77,8 @@ const App = () => (
             ⭐️ SILVER SPONSORS ⭐️
           </h1>
         </div>
-        <Clients3 />
-        <div className={`ss:flex hidden ${styles.flexCenter}`}>
+        <Clients3 /> */}
+        {/* <div className={`ss:flex hidden ${styles.flexCenter}`}>
           <h1 className="text-white text-3xl font-bold pt-12">
             OTHER SPONSORS
           </h1>

@@ -27,14 +27,14 @@ const App = () => (
       </div>
     </div>
 
-    {/* <div className={`bg-[#FCFFE7] ${styles.flexStart}`}>
+    <div className={`bg-[#FCFFE7] ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         <Hero />
         <div className={`ss:flex hidden ${styles.flexCenter}`}>
           <GetStarted />
         </div>
       </div>
-    </div> */}
+    </div>
 
     <div className={`bg-[#FCFFE7] ${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>

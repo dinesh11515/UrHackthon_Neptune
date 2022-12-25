@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="w-full flex pt-3.5 justify-between items-center navbar">
-      <img src={logo} alt="Ur-Hackathon" className="w-[130px] h-[130px]" />
+      <img src={logo} alt="Ur-Hackathon" className="w-[100px] h-[100px]" />
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (

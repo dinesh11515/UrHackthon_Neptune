@@ -11,7 +11,7 @@ const Footer = () => (
         <img
           src={logo}
           alt="Ur-Hackathon"
-          className="w-[250px] h-[150px] object-contain"
+          className="w-[200px] h-[120px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
           Let's Learn, Help and Grow together.
